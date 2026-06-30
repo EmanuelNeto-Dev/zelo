@@ -30,7 +30,7 @@ Detalhes completos em [`docs/architecture.md`](docs/architecture.md) (em constru
 
 ## Roadmap
 
-- [ ] Parsing de extrato (CSV/PDF)
+- [x] Parsing de extrato (CSV/PDF)
 - [ ] Categorização automática via IA
 - [ ] Geração de resumo periódico
 - [ ] Entrega automática (e-mail/WhatsApp)
